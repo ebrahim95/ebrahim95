@@ -6,6 +6,8 @@ write readable and efficient code.
 
 Currently working on a Tailwind CSS Generator 
 
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=ebstheace)](https://github.com/ebrahim95/ebrahim95)
+
 ## Skills 
 
 
@@ -26,7 +28,6 @@ Currently working on a Tailwind CSS Generator
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 
--------------------------------------------------------------------------------
 ## Software
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
