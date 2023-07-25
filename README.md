@@ -6,8 +6,6 @@ write readable and efficient code.
 
 Currently working on a Tailwind CSS Generator 
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=ebstheace)](https://github.com/ebrahim95/ebrahim95)
-
 ## Skills 
 
 
