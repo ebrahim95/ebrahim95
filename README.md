@@ -1,13 +1,11 @@
 ### Howdy! I'm Ebrahim  👋
 
--------------------------------------------------------------------------------
 ## About Me 
-A fullstack engineer who loves to tinker and   
+A fullstack engineer who loves to tinker and</br>
 write readable and efficient code. 
 
 Currently working on a Tailwind CSS Generator 
 
--------------------------------------------------------------------------------
 ## Skills 
 
 
