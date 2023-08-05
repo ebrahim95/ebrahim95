@@ -1,14 +1,25 @@
 ### Howdy! I'm Ebrahim  👋
 
+<!-- Turn it into a table
+Abhishek Chaudhary
+Quick Info
+Name	Abhishek Chaudhary
+Born	11 January, 2002
+Education	B.E.
+Alma mater	Fr C Rodrigues institute of technology
+Nationality	Indian
+Occupation	Web Developer
+Skills	HTML, CSS, JavaScript, Node.js, SEO
+ -->
+ 
+ 
 ## About Me 
 A fullstack engineer who loves to tinker and</br>
 write readable and efficient code. 
 
 Currently working on a Tailwind CSS Generator 
 
-## Skills 
-
-
+## Skills ##
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
