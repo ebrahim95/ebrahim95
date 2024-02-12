@@ -5,7 +5,7 @@
 💭 John Washbrook
 📖 Coders at Work  — P. Seibel
 
-## About Me 
+## About Me   
 I am a self-taught fullstack engineer who loves to <b>tinker</b> and writes <b>readable</b> code. </br> 
 With a background in Sociology, I interact with humans just as well as I do with computers — Best of Both Worlds :earth_americas:
 
@@ -56,7 +56,8 @@ class Values {
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=30&pause=2000&color=000000&background=FFFFFF00&center=true&random=false&width=435&lines=Thank+You+for+Reading+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=30&pause=2000&color=000000&background=FFFFFF00&center=true&random=false&width=435&lines=Thank+You+for+Reading+)](https://git.io/typing-svg)
+
 <!--
 **ebrahim95/ebrahim95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
