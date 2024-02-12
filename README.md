@@ -1,23 +1,47 @@
-### Howdy! I'm Ebrahim  👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=30&pause=1000&color=000000&background=FFFFFF00&center=true&random=false&width=435&lines=+Howdy!+I'm+Ebrahim!)](https://git.io/typing-svg)
 
-<!-- Turn it into a table
-Abhishek Chaudhary
-Quick Info
-Name	Abhishek Chaudhary
-Born	11 January, 2002
-Education	B.E.
-Alma mater	Fr C Rodrigues institute of technology
-Nationality	Indian
-Occupation	Web Developer
-Skills	HTML, CSS, JavaScript, Node.js, SEO
- -->
- 
- 
+> "Just start something, no matter how humble." 
+
+💭 John Washbrook
+📖 Coders at Work  — P. Seibel
+
 ## About Me 
-A fullstack engineer who loves to tinker and</br>
-write readable and efficient code. 
+I am a self-taught fullstack engineer who loves to <b>tinker</b> and writes <b>readable</b> code. </br> 
+With a background in Sociology, I interact with humans just as well as I do with computers — Best of Both Worlds :earth_americas:
 
-Currently working on a Tailwind CSS Generator. 
+<h4>I enjoy :smiley_cat:</h4>        
+📝 Learning about new technologies.  </br>
+:robot: Currently, I am discovering Robotics and learning C++. </br> 
+:infinity: Dabbled a bit in Web3 programming. </br>
+:telescope: Different prespectives help you solve problems. </br>
+
+</br>
+:love_letter: Interested in contributing to Open Source. 
+:fireworks: Made my first one in January '24. </br>
+
+:bento: eating good food. </br>
+
+<h3>Values</h3>
+
+```
+WALKING UPWARDS
+Since perfection does not exist, I do my best to continously improve.
+```
+
+```
+ADAPTATION
+Better ways of doing things should be adpated to ensure progession
+```
+
+```
+CRAWL, FALL, WALK
+As Kids we crawl, stand up, fall, and at some point walk. That's the approach I take when I'm learning something new.
+```
+
+```
+ACE
+No matter what the project is - we should always try to get it right.
+```
 
 ## Skills ##
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,9 +64,9 @@ Currently working on a Tailwind CSS Generator.
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=30&pause=1000&color=000000&background=FFFFFF00&center=true&random=false&width=435&lines=Thank+You+for+Reading+%3A))](https://git.io/typing-svg)
 <!--
 **ebrahim95/ebrahim95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
