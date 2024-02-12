@@ -21,27 +21,16 @@ With a background in Sociology, I interact with humans just as well as I do with
 
 </br>
 :bento: Eating good food. </br>
+</br>
 
-<h3>Values</h3>
+``` Javascript
+class Values {
+  WALKING_UPWARDS: "Since perfection does not exist, I do my best to continously improve."
+  ADAPTATION: "Better ways of doing things should be adpated to ensure progession."
+  CRAWL_FALL_WALK: "As Kids we crawl, stand up, fall, and at some point walk. That's the approach I take when I'm learning something new."
+  ACE: "No matter what the project is - we should always try to get it right."
+}
 
-```
-WALKING UPWARDS
-Since perfection does not exist, I do my best to continously improve.
-```
-
-```
-ADAPTATION
-Better ways of doing things should be adpated to ensure progession
-```
-
-```
-CRAWL, FALL, WALK
-As Kids we crawl, stand up, fall, and at some point walk. That's the approach I take when I'm learning something new.
-```
-
-```
-ACE
-No matter what the project is - we should always try to get it right.
 ```
 
 ## Skills ##
