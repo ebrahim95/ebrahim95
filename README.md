@@ -16,10 +16,11 @@ With a background in Sociology, I interact with humans just as well as I do with
 :telescope: Different prespectives help you solve problems. </br>
 
 </br>
-:love_letter: Interested in contributing to Open Source. 
+:love_letter: Interested in contributing to Open Source. </br>
 :fireworks: Made my first one in January '24. </br>
 
-:bento: eating good food. </br>
+</br>
+:bento: Eating good food. </br>
 
 <h3>Values</h3>
 
