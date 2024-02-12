@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=30&pause=1000&color=000000&background=FFFFFF00&center=true&random=false&width=435&lines=+Howdy!+I'm+Ebrahim!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=30&pause=2000&color=000000&background=FFFFFF00&center=true&random=false&width=435&lines=+Howdy!+I'm+Ebrahim!)](https://git.io/typing-svg)
 
 > "Just start something, no matter how humble." 
 
@@ -56,7 +56,7 @@ class Values {
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=30&pause=1000&color=000000&background=FFFFFF00&center=true&random=false&width=435&lines=Thank+You+for+Reading+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=30&pause=2000&color=000000&background=FFFFFF00&center=true&random=false&width=435&lines=Thank+You+for+Reading+%3A))](https://git.io/typing-svg)
 <!--
 **ebrahim95/ebrahim95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
