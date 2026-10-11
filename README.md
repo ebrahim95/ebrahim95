@@ -12,12 +12,9 @@ With a background in Sociology, I interact with humans just as well as I do with
 <h4>I enjoy :smiley_cat:</h4>        
 📝 Learning about new technologies.  </br>
 :robot: Currently, I am discovering Robotics and learning C++. </br> 
-:infinity: Dabbled a bit in Web3 programming. </br>
 :telescope: Different prespectives help you solve problems. </br>
 
 </br>
-:love_letter: Interested in contributing to Open Source. </br>
-:fireworks: Made my first one in January '24. </br>
 
 </br>
 :bento: Eating good food. </br>
